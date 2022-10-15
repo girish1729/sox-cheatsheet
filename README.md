@@ -237,7 +237,7 @@ $ sox input.wav output.wav speed 2.0
 
 ## Download this cheatsheet PDF
 
-[Gumroad download](https://girish1729.gum.co/l/sox-cheatsheet)
+[Gumroad download](https://girish1729.gumroad.com/l/sox-cheatsheet)
 
 ## Tweet this to your followers
 
