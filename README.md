@@ -233,3 +233,8 @@ $ sox -r 8000 -n output.wav synth 3 sine 300-3300
 ```shell
 $ sox input.wav output.wav speed 2.0
 ```
+
+
+## Download this cheatsheet PDF
+
+[Gumroad download](https://girish1729.gum.co/l/sox-cheatsheet)
